@@ -1,1 +1,2 @@
 Just practicing git here.
+Just making some changes and practicing.
